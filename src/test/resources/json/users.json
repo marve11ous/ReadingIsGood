@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Doctor",
+    "lastName": "Who",
+    "birthDate": "1970-01-01",
+    "email": "who@test.com"
+  },
+  {
+    "id": 2,
+    "name": "Bruce",
+    "lastName": "Wayne",
+    "birthDate": "1950-02-07",
+    "email": "batman@test.com"
+  }
+]

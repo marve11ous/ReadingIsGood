@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Song of Ice & Fire",
+    "author": "George Martin",
+    "price": 9.99,
+    "stock": 13
+  },
+  {
+    "id": 2,
+    "name": "Lord of the Rings",
+    "author": "Tolkien",
+    "price": 10.0,
+    "stock": 1
+  },
+  {
+    "id": 3,
+    "name": "American Gods",
+    "author": "Gaiman",
+    "price": 15.5,
+    "stock": 30
+  }
+]

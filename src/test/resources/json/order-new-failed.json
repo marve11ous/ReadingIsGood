@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "status": "FAILED",
+  "date": "$NOW",
+  "books": [
+    {
+      "id": 1,
+      "amount": 15,
+      "status": "OUT_OF_STOCK"
+    }
+  ]
+}

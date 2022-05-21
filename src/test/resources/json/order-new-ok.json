@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "status": "OK",
+  "date": "$NOW",
+  "books": [
+    {
+      "id": 1,
+      "amount": 5,
+      "status": "OK"
+    }
+  ]
+}
